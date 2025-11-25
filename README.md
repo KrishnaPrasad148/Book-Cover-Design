@@ -32,6 +32,10 @@ Adjust spacing, padding, and font sizes to ensure visual balance.
 Preview the final output in a web browser.
 
 ##  PROGRAM:
+```
+Developed By : Krishna Prasad S
+Register No. : 212223230108
+```
 
 ### index.html
 ```html
@@ -157,3 +161,4 @@ Preview the final output in a web browser.
 ## RESULT:
 
 Thus, The book cover was successfully designed using HTML and CSS and displays correctly in the browser.
+
