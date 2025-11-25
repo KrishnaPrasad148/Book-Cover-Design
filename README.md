@@ -151,6 +151,9 @@ Preview the final output in a web browser.
 ```
 
 ## OUTPUT:
+<img width="1919" height="967" alt="Screenshot 2025-11-25 185615" src="https://github.com/user-attachments/assets/57342526-0705-407a-931e-6bab9dce1342" />
+
 
 ## RESULT:
+
 Thus, The book cover was successfully designed using HTML and CSS and displays correctly in the browser.
